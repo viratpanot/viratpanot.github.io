@@ -1,5 +1,5 @@
 # Virat Jain- Career Profile 
-## Welcome to #My_Profile (Disclaimer : All information here are static in nature. For as on date information, you can rech me @viratpanot on Instagram & Twitter)
+## Welcome to #My_Profile 
 
 You can use the [editor on GitHub](https://github.com/viratpanot/viratpanot.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,5 +34,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viratpanot/viratpanot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Disclaimer : All information here are static in nature. For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md) or [contact support](https://twitter.com/viratpanot) and we’ll help you sort it out.
