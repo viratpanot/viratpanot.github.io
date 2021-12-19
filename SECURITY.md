@@ -9,8 +9,8 @@ Next Major Version release (1.0) expected in June-2022.
 
 | Version | Expected updates   |
 | ------- | ------------------ |
-|   1.0   | :June-2022:        |
-|   0.2   | :Minor Update      |
+|   1.0   | June-2022          |
+|   0.2   | Minor Update       |
 |   0.1   | **Current**        |
 | < 0.0   | :x:                |
 
