@@ -31,7 +31,7 @@
 - Basic Knowledge of Latest tools -Data Science, Machine Learning, Artificial Intelligence & Programming in Python (Basic)
 
 ### EDUCATION & PERSONAL PARTICULARS
-- Qualification/Yr. : B.E Mechanical (68%)/ 2007 Institute/University : M.B.M Engineering College Jodhpur, Rajasthan, India
+- Qualification/Yr. : B.E Mechanical , Institute/University : M.B.M Engineering College Jodhpur, Rajasthan, India
 - Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
 - Pesuing B.Sc. in Programming & Data Science from IIT Madrass.
 
