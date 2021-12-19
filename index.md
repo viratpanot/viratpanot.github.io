@@ -1,22 +1,10 @@
-<h1> Virat Jain- Career Profile <h1>
-<h2> Welcome to #My_Profile <h2>
+ # Virat Jain- Career Profile 
+ ## Welcome to #My_Profile
 
-  <img src="/image/official1Low_small .jpeg" alt="Official Photo">
+![Virat Jain Official](/image/official1Low_small .jpeg)
+ 
 
 
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 
 You can use the [editor on GitHub](https://github.com/viratpanot/viratpanot.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
