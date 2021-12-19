@@ -1,13 +1,12 @@
- # Virat Jain- Career Profile  
+# Virat Jain- Career Profile  
+
+## Welcome to My_Profile  
  
- ## Welcome to My_Profile  
+                               ![Virat Jain Official](/image/official1Low_small .jpeg)
  
-![Virat Jain Official](/image/official1Low_small .jpeg)
- 
- # Job Title : Sr. Project Lead - Oil & Gas 
- 
- ### EXPERIENCE SUMMARY :
-   ## Total Experience- 14.5 Years as on Dec-2021.  
+# Job Title : Sr. Project Lead - Oil & Gas  
+  ### EXPERIENCE SUMMARY :
+   ### Total Experience- 14.5 Years as on Dec-2021.  
      1.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
      2.  Sr. Design engineer at RIL-NMD Design & modification cell.  
      3.  Piping Design experience of 7 years at RIL-JMD JEC Piping.  
@@ -31,7 +30,7 @@
 - 3D Design & Review : PDS, Support Modeller Utility, PV lite 2006, & BASICS OF CAESER-II, SPOOLGEN, MICROSTATION (BENTLEY)
 - Office Software : Command Prompt, Terminal-Linux, MS Office, MS Project
 - Operating System: Windows 10/Linux-Ubuntu,
-- Other Software: SAP, Minitab for statistical analysis.
+- Other Software: SAP, Minitab for statistical analysis, VS Code, GitHub
 - Basic Knowledge of Latest tools -Data Science, Machine Learning, Artificial Intelligence & Programming in Python (Basic)
 
 ### EDUCATION & PERSONAL PARTICULARS :
