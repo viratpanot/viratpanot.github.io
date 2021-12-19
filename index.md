@@ -1,10 +1,11 @@
  # Virat Jain- Career Profile  
  
- ## Welcome to #My_Profile  
+ ## Welcome to My_Profile  
  
 ![Virat Jain Official](/image/official1Low_small .jpeg)
  
-
+ # Job Title : Sr. Project Lead - Oil & Gas 
+ 
  ### EXPERIENCE SUMMARY :
    ## Total Experience- 14.5 Years as on Dec-2021.  
      1.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
@@ -13,7 +14,8 @@
      4.  Well versed with 3D software’s Smart Plant Review, PDS.  
      5.  Well conversant with ASME, ASTM codes & standards, Bechtel & EIL specifications.  
      
- ### SOFT COMPETENCIES
+ ### SOFT COMPETENCIES :
+ 
 - Excellent communication skills with ability to liaise at all levels
 - Proactive, Goal-oriented, and accountable
 - Capable of multi-tasking
@@ -22,7 +24,9 @@
 - Detail oriented
 - Time management.
 - Multi discipline experience
-### COMPUTER PROFICIENCY
+
+### COMPUTER PROFICIENCY :
+
 - Drawing Package : Auto Cad, Smart Plant Review, ProjectWise
 - 3D Design & Review : PDS, Support Modeller Utility, PV lite 2006, & BASICS OF CAESER-II, SPOOLGEN, MICROSTATION (BENTLEY)
 - Office Software : Command Prompt, Terminal-Linux, MS Office, MS Project
@@ -30,7 +34,7 @@
 - Other Software: SAP, Minitab for statistical analysis.
 - Basic Knowledge of Latest tools -Data Science, Machine Learning, Artificial Intelligence & Programming in Python (Basic)
 
-### EDUCATION & PERSONAL PARTICULARS
+### EDUCATION & PERSONAL PARTICULARS :
 - Qualification/Yr. : B.E Mechanical , Institute/University : M.B.M Engineering College Jodhpur, Rajasthan, India
 - Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
 - Pesuing B.Sc. in Programming & Data Science from IIT Madrass.
