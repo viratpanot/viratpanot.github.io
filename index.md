@@ -4,7 +4,7 @@
 
 ![Virat Jain Official](/image/official1Low_small .jpeg)
  
-# Job Title : Sr. Project Lead - Oil & Gas  
+## Job Title : Sr. Project Lead - Oil & Gas  
 ![Oil & Gas](/image/banner.jpg)  
 
 ### EXPERIENCE SUMMARY :
