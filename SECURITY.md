@@ -16,4 +16,4 @@ Next Major Version release (1.0) expected in June-2022.
 
 ## Reporting a Vulnerability
 
-For any updates/clarification, You can reach me @viratpanot on Twitter & Instagram
+For any updates/clarification, You can reach me @viratpanot on [Twitter](https://twitter.com/viratpanot) & Instagram
