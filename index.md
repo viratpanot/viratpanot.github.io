@@ -1,7 +1,7 @@
 # Virat Jain- Career Profile 
 ## Welcome to #My_Profile 
 
-![Virat]( /image/official1Low .jpeg ) = 320X540 
+![Virat]( /image/official1Low .jpeg =250x)
 [^1]: Virat Jain Official Photo
 
 
