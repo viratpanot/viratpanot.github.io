@@ -18,11 +18,13 @@
 - Excellent communication skills with ability to liaise at all levels
 - Proactive, Goal-oriented, and accountable
 - Capable of multi-tasking
-- eam player and self-motivated
+- Team player and self-motivated
 - Strong analytical thinking
 - Detail oriented
 - Time management.
 - Multi discipline experience
+- Ready to learn new skills
+- Believe in "Knowledge is Power"
 
 ### COMPUTER PROFICIENCY :
 
@@ -34,9 +36,9 @@
 - Basic Knowledge of Latest tools -Data Science, Machine Learning, Artificial Intelligence & Programming in Python (Basic)
 
 ### EDUCATION & PERSONAL PARTICULARS :
-- Qualification/Yr. : B.E Mechanical , Institute/University : M.B.M Engineering College Jodhpur, Rajasthan, India
+- Qualification/Institute: B.E Mechanical , M.B.M Engineering College Jodhpur, Rajasthan, India
 - Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
-- Pesuing B.Sc. in Programming & Data Science from IIT Madrass.
+- Persuing B.Sc. in Programming & Data Science from IIT Madrass.
 
 
 You can use the [editor on GitHub](https://github.com/viratpanot/viratpanot.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
