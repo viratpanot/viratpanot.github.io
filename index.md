@@ -1,13 +1,13 @@
- # Virat Jain- Career Profile  
+# Virat Jain- Career Profile  
  
  ## Welcome to #My_Profile  
  
 ![Virat Jain Official](/image/official1Low_small .jpeg)
  
 
-# EXPERIENCE SUMMARY :
--- Total Experience- 14 Years, 4 Months as on Oct-2021.  
--- Lead Engineer- Project Cost Estimation, Planning & Engineering Management-MPC  
+### EXPERIENCE SUMMARY :
+-- Total Experience- 14.5 Years as on Dec-2021.  
+-- Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
 -- Sr. Design engineer at RIL-NMD Design & modification cell.  
 -- Piping Design experience of 7 years at RIL-JMD JEC Piping & well versed with 3D software’s Smart Plant Review, PDS.  
 -- Well conversant with ASME, ASTM codes & standards, Bechtel & EIL specifications.  
