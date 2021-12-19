@@ -1,7 +1,7 @@
 # Virat Jain- Career Profile 
 ## Welcome to #My_Profile 
 
-![Virat]( /image/official1Low_small .jpeg)  
+![image alt >]( /image/official1Low_small .jpeg)  
 ==Virat Jain Official Photo==
 
 
