@@ -1,7 +1,9 @@
 # Virat Jain- Career Profile 
 ## Welcome to #My_Profile 
 
-![Virat]( /image/official1Low .jpeg )
+![Virat]( /image/official1Low .jpeg ) = 320X540 
+[^1]: Virat Jain Official Photo
+
 
 You can use the [editor on GitHub](https://github.com/viratpanot/viratpanot.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
