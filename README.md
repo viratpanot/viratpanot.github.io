@@ -1,6 +1,4 @@
-# viratpanot.github.io
-
-##This is Virat Jain
+# viratpanot.github.io 
 
 This is my Personal [Portfolio website](https://viratpanot.github.io/) project.   
 
