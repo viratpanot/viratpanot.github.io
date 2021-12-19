@@ -2,7 +2,7 @@
 
 ##This is Virat Jain
 
-This is my Personal [Portfolio website] (https://viratpanot.github.io/) project.   
+This is my Personal [Portfolio website](https://viratpanot.github.io/) project.   
 
 Please do visit and contribute with your creative ideas.
 
