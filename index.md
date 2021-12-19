@@ -5,6 +5,8 @@
 ![Virat Jain Official](/image/official1Low_small .jpeg)
  
 # Job Title : Sr. Project Lead - Oil & Gas  
+![Oil & Gas](/image/banner.jpg)  
+
 ### EXPERIENCE SUMMARY :
 ### Total Experience- 14.5 Years as on Dec-2021.  
      1.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
