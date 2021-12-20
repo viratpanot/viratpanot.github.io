@@ -15,6 +15,16 @@
      4.  Well versed with 3D software’s Smart Plant Review, PDS.  
      5.  Well conversant with ASME, ASTM codes & standards, Bechtel & EIL specifications.  
      
+### Company Worked in :
+
+
+| Company                | Role(Period)       |
+| -----------------------| ------------------ |
+| CUMI - Chennai ![](https://en.wikipedia.org/wiki/Murugappa_Group#/media/File:Murugappa_Group_Logo.svg)   | 2007-2008         |
+| RIL-Jamnagar   ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/250px-Reliance_Industries_Logo.svg.png) | 2008- Current      |
+
+
+     
 ### SOFT COMPETENCIES :
  
 - Excellent communication skills with ability to liaise at all levels
