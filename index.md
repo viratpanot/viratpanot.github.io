@@ -105,7 +105,12 @@
  
  
  ***Workout for Fitness***  ~~The world is flat.~~      That is so funny!     
- :joy:  :joy:  :joy:  :joy:  :joy:    
+ :joy:  
+ :joy:  
+ :joy:  
+ :joy:  
+ :joy:  
+ 
  **Lastly I love Foooooooood!!!**  
  I am a Foodie!
  
