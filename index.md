@@ -21,8 +21,8 @@
 
 | Company                | Role(Period)       |
 | -----------------------| ------------------ |
-| ![CUMI - Chennai](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Murugappa_Group_Logo.svg/1200px-Murugappa_Group_Logo.svg.png)      |Product Development (2007-2008) |
-| ![RIL-Jamnagar](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/250px-Reliance_Industries_Logo.svg.png) |Sr. Project Lead (2008- Current)|
+| [![CUMI - Chennai](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Murugappa_Group_Logo.svg/1200px-Murugappa_Group_Logo.svg.png)](https://www.murugappa.com/engineering/)      |Product Development (2007-2008) |
+| [![RIL-Jamnagar](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/250px-Reliance_Industries_Logo.svg.png)](https://www.ril.com/TheRelianceStory.aspx) |Sr. Project Lead (2008- Current)|
 
 
      
