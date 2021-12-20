@@ -21,8 +21,8 @@
 
 | Company                | Role(Period)       |
 | -----------------------| ------------------ |
-| [![CUMI - Chennai](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Murugappa_Group_Logo.svg/1200px-Murugappa_Group_Logo.svg.png)](https://www.murugappa.com/engineering/)      |Product Development (2007-2008) |
-| [![RIL-Jamnagar](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/250px-Reliance_Industries_Logo.svg.png)](https://www.ril.com/TheRelianceStory.aspx) |Sr. Project Lead (2008- Current)|
+| [![CUMI - Chennai](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Murugappa_Group_Logo.svg/1200px-Murugappa_Group_Logo.svg.png)](https://www.murugappa.com/engineering/){:target="_blank"}      |Product Development (2007-2008) |
+| [![RIL-Jamnagar](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/250px-Reliance_Industries_Logo.svg.png)](https://www.ril.com/TheRelianceStory.aspx){:target="_blank"} |Sr. Project Lead (2008- Current)|
 
 
      
@@ -54,12 +54,12 @@
 - Persuing B.Sc. in Programming & Data Science from IIT Madrass.
 
 ### Certificates 
-***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d)***   
-***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea)***   
-***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3)***   
-***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba)***    
-***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27)***    
-***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7)***   
+***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d){:target="_blank"}***   
+***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea){:target="_blank"}***   
+***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
+***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
+***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27){:target="_blank"}***    
+***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***   
 
 
 
@@ -69,13 +69,13 @@
  ***Working on Mathematical Problems*** ________________________![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg)   
  ***Gaming on Computer*** _______________________________________ ![](/image/E6A9B559-D934-4269-9325-95E2F9A6E71E.jpeg)   
  ***Playing with Kids*** ________________________ ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg) ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg)    
- ***Favorite Operating System*** _______________________________ [![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)](https://www.linux.com/what-is-linux/)   
+ ***Favorite Operating System*** _______________________________ [![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)](https://www.linux.com/what-is-linux/){:target="_blank"}   
  ***Workout for Fitness***  ~~The world is flat.~~   That is so funny!  :joy:  :joy:  :joy:  :joy:  :joy:    
  **Lastly I love Foooooooood!!!**  I am a Foodie!
  
  
 ### Support or Contact
 ***Disclaimer*** : All information here are static in nature.     
-                   For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md) or [contact support](https://twitter.com/viratpanot) and we’ll help you sort it out.
+                   For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md){:target="_blank"} or [contact support](https://twitter.com/viratpanot){:target="_blank"} and we’ll help you sort it out.
                    
-[![](/image/D89170FC-B957-42FD-8D9B-1A1250651433.jpeg)](https://onlinedegree.iitm.ac.in/)
+[![](/image/D89170FC-B957-42FD-8D9B-1A1250651433.jpeg)](https://onlinedegree.iitm.ac.in/){:target="_blank"}
