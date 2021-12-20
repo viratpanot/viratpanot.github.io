@@ -53,6 +53,17 @@
 - Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
 - Persuing B.Sc. in Programming & Data Science from IIT Madrass.
 
+### Certificates 
+***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d)***
+***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea)***
+***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3)***
+***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba)***
+***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27)***
+***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7)***
+
+
+
+
 ### Hobbies & Interest
  ***Programming/Coding and Computer Hardwares*** ______________ ![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg)    
  ***Working on Mathematical Problems*** ________________________![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg)   
@@ -61,8 +72,8 @@
  ***Favorite Operating System***_______________________________ ![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)   
  ***Workout for Fitness*** ~~The world is flat.~~ That is so funny! :joy: :joy: :joy: :joy: :joy:    
  **Lastly I love Foooooooood!!!** I am a Foodie!
-
-
+ 
+ 
 ### Support or Contact
 ***Disclaimer*** : All information here are static in nature.     
                    For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md) or [contact support](https://twitter.com/viratpanot) and we’ll help you sort it out.
