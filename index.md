@@ -64,4 +64,5 @@
 
 
 ### Support or Contact
-(Disclaimer : All information here are static in nature. For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md) or [contact support](https://twitter.com/viratpanot) and we’ll help you sort it out.
+***Disclaimer*** : All information here are static in nature.     
+                   For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md) or [contact support](https://twitter.com/viratpanot) and we’ll help you sort it out.
