@@ -126,9 +126,9 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing as a GET.
 
 
 ### EDUCATION & PERSONAL PARTICULARS 🎓🧑🏼‍🎓:
-- Qualification/Institute: B.E Mechanical , M.B.M Engineering College Jodhpur, Rajasthan, India
-- Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
-- Persuing B.Sc. in Programming & Data Science from IIT Madrass.
+- Qualification/Institute: B.E Mechanical , M.B.M Engineering College Jodhpur, Rajasthan, India [![](/image/mbm.png)](https://mbm.ac.in/)
+- Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune [![](/image/SCDL.png)](https://www.scdl.net/)
+- Persuing B.Sc. in Programming & Data Science from IIT Madrass. [![](/image/IITM.png)](https://onlinedegree.iitm.ac.in/)
 
 
 
