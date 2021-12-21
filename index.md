@@ -86,11 +86,11 @@
 
 
 ### Hobbies & Interest 🤹‍♂️🧗‍♀️🚴
- ***Programming/Coding and Computer Hardwares*** ![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg){:target="_blank"}  ![](/image/E6A9B559-D934-4269-9325-95E2F9A6E71E.jpeg){:target="_blank"} &  ***Gaming on Computer***       
+ : ***Programming/Coding and Computer Hardwares*** ![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg){:target="_blank"}  ![](/image/E6A9B559-D934-4269-9325-95E2F9A6E71E.jpeg){:target="_blank"} &  ***Gaming on Computer***       
                
              
   
- ***You Tube Video Making/Watching***  ![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg){:target="_blank"}   
+ : ***You Tube Video Making/Watching***  ![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg){:target="_blank"}   
  
       
          
@@ -101,7 +101,7 @@
           
  
  
- ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg){:target="_blank"} ***Playing with Kids*** ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg){:target="_blank"}    
+ : ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg){:target="_blank"} ***Playing with Kids*** ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg){:target="_blank"}    
  
  
         
@@ -109,15 +109,15 @@
  
  
 
- ***Favorite Operating System*** ---------> [![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)](https://www.linux.com/what-is-linux/){:target="_blank"}         
+  : ***Favorite Operating System*** ---------> [![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)](https://www.linux.com/what-is-linux/){:target="_blank"}         
         
        
        
- ***Workout for Fitness***  ~~The world is flat.~~      That is so funny!     
+  : ***Workout for Fitness***  ~~The world is flat.~~      That is so funny!     
  😂😂😅🤣🤣🤣
  
- **Lastly I love Foooooooood!!!**  
- I am a Foodie!    
+  : **Lastly I love Foooooooood!!!**  
+    I am a Foodie!    
   🍨🍿🍫🍧🍡🍢🌮🍕🍟🍔🍉🍎🍊🍋🥑🌽🥕
  
  
