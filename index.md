@@ -164,8 +164,8 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing as a GET.
 [![](/image/tux-new_small.jpg)](https://www.linux.com/what-is-linux/){:target="_blank"}   
 
        
-***Workout for Fitness***  ~~The world is flat.~~      That is so funny!     
- 😂😂😅🤣🤣🤣
+***Wish to regularly Workout for Fitness*** 💪 💪 😤       
+~~That is so funny!~~  😂😂😅🤣🤣🤣
  
 **Lastly I love Foooooooood!!!**  
     I am a Foodie!    
