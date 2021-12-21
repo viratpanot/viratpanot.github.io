@@ -94,7 +94,7 @@
       
 ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg){:target="_blank"} ***Playing with Kids*** ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg){:target="_blank"}    
  
-      [![](/image/1494EDA4-E4F2-4476-81E3-EC7BC04EE4BF.jpeg)](https://www.linux.com/what-is-linux/){:target="_blank"}    
+[![](/image/tux-new_small.jpg)(https://www.linux.com/what-is-linux/){:target="_blank"}
          ➶ ➦ ➽ ➽ 💘      
        ➶
     🏹
