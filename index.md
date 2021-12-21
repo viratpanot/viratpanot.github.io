@@ -10,7 +10,7 @@
 
 
 
-### EXPERIENCE SUMMARY :
+### EXPERIENCE SUMMARY 🧤🪖🧳 :
 ### Total Experience- 14.5 Years as on Dec-2021.  
      1.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
      2.  Sr. Design engineer at RIL-NMD Design & modification cell.  
@@ -20,7 +20,7 @@
      
      
      
-### Organisations Worked in :
+### Organisations Worked 🏭🏭 :
 
 
 | Company                | Role(Period)       |
@@ -34,7 +34,7 @@
 
 
      
-### SOFT COMPETENCIES :
+### SOFT COMPETENCIES 📩📈🤝 :
  
 - Excellent communication skills with ability to liaise at all levels
 - Proactive, Goal-oriented, and accountable
@@ -50,7 +50,7 @@
 
 
 
-### COMPUTER PROFICIENCY :
+### COMPUTER PROFICIENCY 💻🖥🖨 :
 
 - Drawing Package : Auto Cad, Smart Plant Review, ProjectWise
 - 3D Design & Review : PDS, Support Modeller Utility, PV lite 2006, & BASICS OF CAESER-II, SPOOLGEN, MICROSTATION (BENTLEY)
@@ -63,7 +63,7 @@
 
 
 
-### EDUCATION & PERSONAL PARTICULARS :
+### EDUCATION & PERSONAL PARTICULARS 🎓🧑🏼‍🎓:
 - Qualification/Institute: B.E Mechanical , M.B.M Engineering College Jodhpur, Rajasthan, India
 - Post-Graduation/Institute : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune
 - Persuing B.Sc. in Programming & Data Science from IIT Madrass.
@@ -72,7 +72,7 @@
 
 
 
-### Certificates 
+### Certificates 🎯🏆
 ***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d){:target="_blank"}***   
 ***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea){:target="_blank"}***   
 ***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
@@ -85,7 +85,7 @@
 
 
 
-### Hobbies & Interest
+### Hobbies & Interest 🤹‍♂️🧗‍♀️🚴
  ***Programming/Coding and Computer Hardwares*** ______________ ![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg){:target="_blank"}  
  
  
@@ -105,11 +105,7 @@
  
  
  ***Workout for Fitness***  ~~The world is flat.~~      That is so funny!     
- :joy:  
- :joy:  
- :joy:  
- :joy:  
- :joy:  
+ 😂😂😅🤣🤣🤣
  
  **Lastly I love Foooooooood!!!**  
  I am a Foodie!
@@ -118,11 +114,11 @@
  
  
  
-### Support or Contact
+### Support or Contact 🏋️‍♀️
 ***Disclaimer*** : All information here are static in nature.     
                    For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md){:target="_blank"} or [contact support](https://twitter.com/viratpanot){:target="_blank"} and we’ll help you sort it out.
                    
                    
-### Special Thanks to --->
+### Special Thanks to 🙏🏻🙏🏻 --->
                    
 [![](/image/D89170FC-B957-42FD-8D9B-1A1250651433.jpeg)](https://onlinedegree.iitm.ac.in/){:target="_blank"}
