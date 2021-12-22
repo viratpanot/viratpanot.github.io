@@ -2,7 +2,7 @@
 
 ## Welcome to My_Profile  
 
-![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"}  ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
+![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"} _____________ ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
  
 ## Job Title : Sr. Project Lead - Oil & Gas 🕺🏻🇮🇳   
 ![Oil & Gas](/image/banner.jpg){:target="_blank"}  
