@@ -26,7 +26,7 @@
 | Company                | Role(Period)       |
 | -----------------------| ------------------ |
 | [![CUMI - Chennai](/image/1200px-Murugappa_Group_Logo.svg.png)](https://www.murugappa.com/engineering/){:target="_blank"}      |Product Development (2007-2008) |
-| [![RIL-Jamnagar](/image/RIL.png)](https://www.ril.com/TheRelianceStory.aspx){:target="_blank"} |Sr. Project Lead (2008- Current)|
+| [![RIL-Jamnagar](/image/RIL1.png)](https://www.ril.com/TheRelianceStory.aspx){:target="_blank"} |Sr. Project Lead (2008- Current)|
 
 
 
