@@ -148,10 +148,14 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
 
 
 ### Hobbies & Interest 🤹‍♂️🧗‍♀️🚴  
-***Programming/Coding and Computer Hardwares*** ![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg){:target="_blank"}  ![](/image/E6A9B559-D934-4269-9325-95E2F9A6E71E.jpeg){:target="_blank"} &  ***Gaming on Computer***       
+***Programming/Coding and Computer Hardwares*** &  ***Gaming on Computer***         
+
+![](/image/470A86C2-8791-43BF-BE42-0D85818D5B32.jpeg){:target="_blank"}  ![](/image/E6A9B559-D934-4269-9325-95E2F9A6E71E.jpeg){:target="_blank"}       
                
              
-***YouTube [![image](https://user-images.githubusercontent.com/70111766/146988310-5e79ee88-63f1-4da6-baa3-f934baad7620.png)](https://www.youtube.com/c/MrViratpanot){:target="_blank"} Video Making/Watching***  ![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg){:target="_blank"}   
+***YouTube [![image](https://user-images.githubusercontent.com/70111766/146988310-5e79ee88-63f1-4da6-baa3-f934baad7620.png)](https://www.youtube.com/c/MrViratpanot){:target="_blank"} Video Making/Watching***          
+
+![](/image/CF7D3047-789E-4AD0-9B6E-996DD1262836.jpeg){:target="_blank"}     
  
       
 ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg){:target="_blank"} ***Fun with Kids & teaching Mathematics*** ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg){:target="_blank"}    
