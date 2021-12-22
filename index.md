@@ -2,7 +2,7 @@
 
 ## Welcome to My_Profile  
 
-![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"} _______________________ ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
+![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"} ___________________________ ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
  
 ## Job Title : Sr. Project Lead - Oil & Gas 🕺🏻🇮🇳   
 ![Oil & Gas](/image/banner.jpg){:target="_blank"}  
@@ -137,13 +137,13 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
 
 
 
-### Certificates 🎯🏆
-***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d){:target="_blank"}***   
-***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea){:target="_blank"}***   
-***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
-***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27){:target="_blank"}***    
-***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
-***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***     
+### Digital Certificates  🎯🏆
+1. ***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d){:target="_blank"}***   
+2. ***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea){:target="_blank"}***   
+3. ***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
+4. ***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27){:target="_blank"}***    
+5. ***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
+6. ***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***     
 
 
 
