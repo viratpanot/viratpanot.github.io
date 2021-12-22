@@ -141,9 +141,9 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
 ***[Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/bb58b242b30e7bd1bd4702c54caa2f2d){:target="_blank"}***   
 ***[Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/1671207f89bbdf77f39bfb0c2533e7ea){:target="_blank"}***   
 ***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
-***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
 ***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27){:target="_blank"}***    
-***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***   
+***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
+***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***     
 
 
 
