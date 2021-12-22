@@ -6,8 +6,8 @@
  
 ## Job Title : Sr. Project Lead - Oil & Gas 🕺🏻🇮🇳   
 ![Oil & Gas](/image/banner.jpg){:target="_blank"}  
-![Plant](/image/3AC5954D-BFB9-4472-A40C-78BCC64FD847.jpeg){:target="_blank"} _______ ![RIL](/image/Refining.jpg){:target="_blank"}      
-___________________________________ ![RIL](/image/RIL Gate.jpeg){:target="_blank"} ________________________________________
+________________________ ![RIL](/image/Refining.jpg){:target="_blank"} _____________________________      
+__________________________________________ ![RIL](/image/RIL Gate.jpeg){:target="_blank"} ____________________________________________
 
 
 
