@@ -82,9 +82,9 @@ maintenance requirements.
 - Preparation of Isometric Drawing, Material Take Off (MTO), Bulk MTO    
 - Co-ordination with electrical, instrumentation, civil and structural, works materials and site for engineering activities.   
 
-## Worked since June’ 07 to June’08 in
+## Worked from June’ 07 to June’08 in
 CARBORUNDUM UNIVERSAL LTD.   
-MURUGAPPA GROUP  Working Profile : Product development and marketing as a GET.  
+MURUGAPPA GROUP  Working Profile : Product development and marketing
 
     
 
