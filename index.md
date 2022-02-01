@@ -4,7 +4,7 @@
 
 ![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"} ___________________________ ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
  
-## Job Title : Sr. Project Lead - Oil & Gas 🕺🏻🇮🇳   
+## Job Title : Assistant General Manager - Projects 🕺🏻🇮🇳   
 ![Oil & Gas](/image/banner.jpg){:target="_blank"}  
 ________________________ ![RIL](/image/Refining.jpg){:target="_blank"} __________________________     
        
@@ -14,12 +14,13 @@ __________________________________________ ![RIL](/image/RIL Gate.jpeg){:target=
 
 
 ### EXPERIENCE SUMMARY 🧤🪖🧳 :
-### Total Experience- 14.5 Years as on Dec-2021.  
-     1.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
-     2.  Sr. Design engineer at RIL-NMD Design & modification cell.  
-     3.  Piping Design experience of 7 years at RIL-JMD JEC Piping.  
-     4.  Well versed with 3D software’s Smart Plant Review, PDS.  
-     5.  Well conversant with ASME, ASTM codes & standards, Bechtel & EIL specifications.  
+### Total Experience- 14.8 Years as on Feb-2022.  
+     1.  Assistant General Manager – Project Cell JMD
+     2.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
+     3.  Sr. Design engineer at RIL-NMD Design & modification cell.  
+     4.  Piping Design experience of 7 years at RIL-JMD JEC Piping.  
+     5.  Well versed with 3D software’s Smart Plant Review, PDS.  
+     6.  Well conversant with ASME, ASTM codes & standards, Bechtel & EIL specifications.  
      
      
      
@@ -34,12 +35,18 @@ __________________________________________ ![RIL](/image/RIL Gate.jpeg){:target=
 
 
 ### 🎭 🎭 EXPERIENCE DETAIL 🎭 🎭
+
+## Assistant General Manager – Project Cell-JMD (Current).
+- Stakeholder’s management for the timely completion of Projects and within budget
+- Safe execution of projects assigned.
+- Project management for EPC project phases.
+- Shut down/ turn around management.
+- Project contract activities & handling of service contractors for assigned job.
+- Participation in PSSR for safe start-up of completed projects
+
 ## Lead Engineer- Project Cost Estimation, Planning & Project Management (Current)
 - Carrying out Initial Cost estimation & feasibility study of brownfield Projects.   
-- Stakeholder’s management for the timely completion of Projects within budget & revalidation of cost at various EPC phase.  
-- Well versed standard & engineering practices required for project execution phases.   
-- Shut down/ turn around jobs planning & resource management.  
-- Project contract activities & handling of service contractors for assigned job,   
+- Well versed standard & engineering practices required for project execution phases.     
 - Technical support to various site and vendor related queries for replacement and new procurement.   
 - Following PSM and OMS procedures for safe execution of assigned tasks.   
 - Preparation of rigging plan and SOQ for assigned projects.   
