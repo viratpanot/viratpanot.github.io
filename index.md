@@ -44,7 +44,7 @@ __________________________________________ ![RIL](/image/RIL Gate.jpeg){:target=
 - Project contract activities & handling of service contractors for assigned job.
 - Participation in PSSR for safe start-up of completed projects
 
-## Lead Engineer- Project Cost Estimation, Planning & Project Management (Current)
+## Lead Engineer- Project Cost Estimation, Planning & Project Management
 - Carrying out Initial Cost estimation & feasibility study of brownfield Projects.   
 - Well versed standard & engineering practices required for project execution phases.     
 - Technical support to various site and vendor related queries for replacement and new procurement.   
