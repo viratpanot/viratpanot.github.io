@@ -4,8 +4,8 @@
 
 ![Virat Jain Official](/image/official1Low_small .jpeg){:target="_blank"} ___________________________ ![Virat Jain Official](/image/OGEngg.jpeg){:target="_blank"}
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="viratpanot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/viratpanot?trk=profile-badge">Virat Jain</a></div>
-              
+***[Virat Jain Linkedin Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="viratpanot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/viratpanot?trk=profile-badge">Virat Jain</a></div>){:target="_blank"}***    
+           
 
 ## Job Title : Assistant General Manager - Projects 🕺🏻🇮🇳   
 ![Oil & Gas](/image/banner.jpg){:target="_blank"}  
