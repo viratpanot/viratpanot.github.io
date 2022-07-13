@@ -1,5 +1,4 @@
-# <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="viratpanot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/viratpanot?trk=profile-badge">Virat Jain</a></div>{:target="_blank"} 
-           - Career Profile  
+# <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="viratpanot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/viratpanot?trk=profile-badge">Virat Jain</a></div>{:target="_blank"}-Career Profile  
 
 ## Welcome to My_Profile  
 
