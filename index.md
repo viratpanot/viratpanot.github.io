@@ -152,7 +152,8 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
 3. ***[Python for Data Science, AI & Development](https://coursera.org/share/d4fd73b48a8a98ddd8c99df6b9d7ced3){:target="_blank"}***   
 4. ***[Intelligence Tools for the Digital Age](https://coursera.org/share/7a5a50e308c7f7d7441ac3e9f2810b27){:target="_blank"}***    
 5. ***[Innovating in a Digital World](https://coursera.org/share/1d8541d62a4a1b768710975901525bba){:target="_blank"}***    
-6. ***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***     
+6. ***[Intelligent Machining](https://coursera.org/share/9dad93db60d0b844c683ce59a9a800f7){:target="_blank"}***
+7. ***[Foundations of Project Management](https://coursera.org/share/1892c844621b4474c806e30b20abc395){:target="_blank"}*** 
 
 
 
