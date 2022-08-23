@@ -173,30 +173,5 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
       
 ![](/image/6284406C-D4E7-41EE-88F7-B48CDF968898.jpeg){:target="_blank"} ***Fun with Kids & teaching Mathematics*** ![](/image/D3DB1479-56B4-4B13-9817-E54399E9E740.jpeg){:target="_blank"}    
  
-        
 
-***Favorite Operating System***  🏹 ➵ ➵ ➵     ➵ ➵   ➵     ➵ ➵  
-💘💘💘💘   
-💘💘💘💘   
-[![](/image/tux-new_small.jpg)](https://www.linux.com/what-is-linux/){:target="_blank"}   
-
-       
-***Wish to regularly Workout for Fitness*** 💪 💪 😤       
-~~That is so funny!~~  😂😂😅🤣🤣🤣
- 
-**Lastly I love Foooooooood!!!**  
-    I am a Foodie!    
-  🍨🍿🍫🍧🍡🍢🌮🍕🍟🍔🍉🍎🍊🍋🥑🌽🥕
- 
- 
- 
- 
- 
-### Support or Contact 🏋️‍♀️
-***Disclaimer*** : All information here are static in nature.     
-                   For more info--> Check out our [documentation](https://github.com/viratpanot/viratpanot.github.io/blob/main/SECURITY.md){:target="_blank"} or [contact support](https://twitter.com/viratpanot){:target="_blank"} and we’ll help you sort it out.
-                   
-                   
-### Special Thanks to 🙏🏻🙏🏻 --->
-                   
-[![](/image/D89170FC-B957-42FD-8D9B-1A1250651433.jpeg)](https://onlinedegree.iitm.ac.in/){:target="_blank"}
+-Virat Jain
