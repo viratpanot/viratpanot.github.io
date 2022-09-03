@@ -16,7 +16,7 @@ __________________________________________ ![RIL](/image/RIL Gate.jpeg){:target=
 
 
 ### EXPERIENCE SUMMARY 🧤🪖🧳 :
-### Total Experience- 14.8 Years as on Feb-2022.  
+### Total Experience- 15.2 Years as on Sept-2022.  
      1.  Assistant General Manager – Project Cell JMD
      2.  Lead Engineer- Project Cost Estimation, Planning & Engineering Management-Project Cell
      3.  Sr. Design engineer at RIL-NMD Design & modification cell.  
