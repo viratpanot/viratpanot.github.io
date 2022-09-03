@@ -140,7 +140,7 @@ MURUGAPPA GROUP  Working Profile : Product development and marketing
 ### EDUCATION & PERSONAL PARTICULARS 🎓🧑🏼‍🎓:
 - Graduation: B.E Mechanical , M.B.M Engineering College Jodhpur, Rajasthan [![](/image/mbm.png)](https://mbm.ac.in/){:target="_blank"}     
 - Post-Graduation : PGDBA-2016 (Finance), Symbiosis (SCDL), Pune, MH [![](/image/SCDL.png)](https://www.scdl.net/){:target="_blank"}   
-- Persuing B.Sc. in Programming & Data Science from IIT Madrass, TN  [![](/image/IITM.png)](https://onlinedegree.iitm.ac.in/){:target="_blank"}   
+- Persuing BS in Programming & Data Science from IIT Madrass, TN in online MODE [![](/image/IITM.png)](https://onlinedegree.iitm.ac.in/){:target="_blank"}   
 
 
 
